@@ -1,0 +1,16 @@
+body {
+  color: #333;
+}
+
+.fa-bolt {
+  display: inline-block;
+  margin: 15px 0;
+}
+
+.header-btn {
+  background-color: #74cfae;
+  color:#FFF;
+  float: right;
+  padding: 14px 12px;
+  font-size: 12px;
+}
